@@ -19,7 +19,7 @@ pip install numpy
 ```
 
 ```Terminal
-pip install pip install pyautogui
+pip install pyautogui
 ```
 
 ```Terminal
